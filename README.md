@@ -1,2 +1,2 @@
 # 2v-soluciones
-web en laravel bootstra y jquery
+web en laravel, bootstrab, ajax y jquery. Uno de mis trabajos individuales un poco antiguos.
